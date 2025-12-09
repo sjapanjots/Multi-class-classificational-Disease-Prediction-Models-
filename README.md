@@ -37,12 +37,6 @@ This project brings together multiple machine learning models into a single, eas
   numpy
   ```
 
-- `link_web_app.txt`  
-  Contains the URL for the deployed web app:
-  ```
-  https://multiplediseasepredictionsytem.streamlit.app/
-  ```
-
 ---
 
 ## 🧠 How It Works
@@ -56,10 +50,7 @@ This project brings together multiple machine learning models into a single, eas
 ## 📦 Installation & Run Locally
 
 1. **Clone** the repository:
-   ```bash
-   git clone https://github.com/sjapanjots/mdiseases.git
-   cd mdiseases
-   ```
+provide you soon
 
 2. **Install** dependencies:
    ```bash
@@ -76,11 +67,7 @@ This project brings together multiple machine learning models into a single, eas
 ---
 
 ## 🌍 Live Demo
-
-Access the app online at:  
-`https://multiplediseasepredictionsytem.streamlit.app/`  
-(Exact URL is in `link_web_app.txt`.)
-
+Link mentioned below description
 ---
 
 ## ✅ Usage Example
